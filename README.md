@@ -1,4 +1,4 @@
-# 🔐 Crypto Ransomware — Laboratorio de Ciberseguridad
+# 🔐Laboratorio de Ciberseguridad - Crypto Ransomware 
 
 > **Repositorio educativo.** Este laboratorio fue desarrollado en un entorno completamente aislado, sin acceso a internet ni a redes reales, con el único propósito de comprender cómo funciona el ransomware y concientizar sobre la importancia de mantener los sistemas actualizados.
 
@@ -6,7 +6,7 @@
 
 ## ⚠️ Disclaimer
 
-Este repositorio documenta un ejercicio académico realizado en una red virtual aislada (VMnet Host-Only) sin conexión a internet ni a ninguna red real. El código fuente del malware **no está incluido ni será publicado**. Toda la información aquí presentada tiene fines exclusivamente educativos. Reproducir estas técnicas fuera de un entorno controlado y sin autorización explícita es ilegal.
+Este repositorio documenta un ejercicio académico realizado en una red virtual aislada (VMnet Host-Only) sin conexión a internet ni a ninguna red real. El código fuente del malware **no está incluido ni será publicado**. Toda la información aquí presentada tiene fines exclusivamente educativos. Reproducir estas técnicas fuera de un entorno controlado y sin autorización explícita es ilegal. Este repositorios con fines educativos.
 
 ---
 
@@ -87,4 +87,4 @@ crypto-ransomware-python/
 
 ---
 
-*Laboratorio realizado con fines educativos en entorno controlado y aislado.*
+*Lab. 0*
