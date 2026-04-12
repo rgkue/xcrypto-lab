@@ -46,9 +46,8 @@ La pantalla de rescate ocupa todo el escritorio del usuario, muestra un contador
 
 | Limitación | Comportamiento real en ransomware profesional |
 |---|---|
-| Contraseña hardcodeada en el ejecutable | La clave nunca existe en el cliente — se genera localmente, se cifra con RSA pública del atacante y solo el servidor C2 puede descifrarla |
+| Contraseña hardcodeada en el ejecutable | La clave está explicitamente escrita en texto plano dentro del archivo .py de manera hardcodeada |
 | Salt fijo en PBKDF2 | Salt aleatorio generado con `os.urandom(16)` y almacenado junto al archivo cifrado |
-| Clave simétrica única para todos los archivos | Clave única por archivo o por víctima |
 
 Estas limitaciones son intencionales — el objetivo del laboratorio es comprender el comportamiento del ransomware, no construir uno operacionalmente seguro para un atacante.
 
@@ -56,4 +55,6 @@ Estas limitaciones son intencionales — el objetivo del laboratorio es comprend
 
 ## Empaquetado
 
-El script fue convertido a ejecutable `.exe` con **PyInstaller** usando el flag `--onedir --noconsole` para que corriera en Windows 7 sin Python instalado y sin mostrar ventana de consola. Los motivos por los que se usó `--onedir` en lugar de `--onefile` se explican en [05-issues.md](05-issues.md).
+El script fue convertido a ejecutable `.exe` con **PyInstaller** usando el flag `--onedir --noconsole` para que corriera en Windows 7 sin Python instalado y sin mostrar ventana de consola. Comando de empaquetado completo:
+
+`pyinstaller --onefile --noconsole xcrypto.py`
