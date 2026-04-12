@@ -30,7 +30,7 @@ Instagram: [tutospcyoutube](https://www.instagram.com/tutospcyoutube)
 
 Para entender cómo EternalBlue llegó a manos de Shadow Brokers, es importante conocer el contexto de las filtraciones de años anteriores.
 
-En 2013, Edward Snowden, contratista de la NSA, filtró millones de documentos clasificados que revelaron al mundo la existencia de programas masivos de vigilancia global. Entre los documentos había evidencia de que la NSA había desarrollado capacidades para comprometer sistemas en todo el mundo. Snowden entregó los documentos a periodistas y huyó a Rusia, donde vive actualmente bajo asilo político.
+En 2013, [![Edward Snowden](https://es.wikipedia.org/wiki/Edward_Snowden)], contratista de la NSA, filtró millones de documentos clasificados que revelaron al mundo la existencia de programas masivos de vigilancia global. Entre los documentos había evidencia de que la NSA había desarrollado capacidades para comprometer sistemas en todo el mundo. Snowden entregó los documentos a periodistas y huyó a Rusia, donde vive actualmente bajo asilo político.
 
 Las filtraciones de Snowden no incluyeron herramientas técnicas como EternalBlue, pero sí revelaron la existencia y el alcance del arsenal cibernético de la NSA. Shadow Brokers apareció en 2016 — tres años después — afirmando haber comprometido directamente la infraestructura de la NSA y publicando EternalBlue entre otras herramientas.
 
@@ -38,7 +38,7 @@ Lo que sí es claro es que ambos casos — Snowden en 2013 y Shadow Brokers en 2
 
 **Película recomendada:**
 
-Snowden (2016) — dirigida por Oliver Stone
+[![Snowden (2016)](https://es.wikipedia.org/wiki/Snowden_(pel%C3%ADcula))] — dirigida por Oliver Stone
 Protagonizada por Joseph Gordon-Levitt como Edward Snowden.
 Disponible en plataformas de streaming. Recomendada como complemento al estudio de ética en ciberseguridad y vigilancia masiva.
 
