@@ -128,8 +128,8 @@ Desde Windows Vista en adelante, los servicios del sistema corren en una sesión
 
 PyInstaller ofrece dos modos de empaquetado:
 
-| Modo | Comportamiento | Problema en este lab |
-|---|---|---|
+| Modo | Comportamiento |
+|---|---|
 | `--onefile` | Genera un único ejecutable que descomprime en `AppData\Local\Temp` al ejecutarse |
 | `--onedir` | Genera una carpeta con el ejecutable y todas sus dependencias en ruta fija | 
 
