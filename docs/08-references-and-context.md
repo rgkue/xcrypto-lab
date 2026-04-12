@@ -12,16 +12,18 @@ El rescate pedido era de entre 300 y 600 dólares en Bitcoin por equipo. Irónic
 
 ### El Kill Switch de los 10 dólares
 
-Marcus Hutchins, investigador de seguridad británico de 22 años conocido como MalwareTech, estaba analizando el código de WannaCry el mismo día del ataque. Encontró que antes de cifrar cualquier archivo, el malware consultaba un dominio de internet largo y sin sentido. Si el dominio respondía, el malware se detenía. El dominio no estaba registrado — nunca respondía — y el malware siempre continuaba. Hutchins lo registró por 10.69 dólares. Todos los procesos activos de WannaCry en el mundo dejaron de cifrar archivos en minutos. El ataque más costoso de la historia fue detenido por menos de once dólares.
+[Marcus Hutchins](https://es.wikipedia.org/wiki/Marcus_Hutchins), investigador de seguridad británico de 22 años conocido como MalwareTech, estaba analizando el código de WannaCry el mismo día del ataque. Encontró que antes de cifrar cualquier archivo, el malware consultaba un dominio de internet largo y sin sentido. Si el dominio respondía, el malware se detenía. El dominio no estaba registrado — nunca respondía — y el malware siempre continuaba. Hutchins lo registró por 10.69 dólares. Todos los procesos activos de WannaCry en el mundo dejaron de cifrar archivos en minutos. El ataque más costoso de la historia fue detenido por menos de once dólares.
 
 WannaCry fue atribuido por los gobiernos de Estados Unidos, Reino Unido, Australia y Japón al grupo Lazarus, vinculado al gobierno de Corea del Norte.
 
 **Recurso recomendado:**
 
 ¿Qué fue WannaCry? — TutosPC
-<a href="https://www.youtube.com/watch?v=aAFuNn2URng">
-  <img src="https://img.youtube.com/vi/aAFuNn2URng/hqdefault.jpg" alt="¿Qué fue WannaCry?" width="600">
-</a>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=aAFuNn2URng">
+    <img src="https://img.youtube.com/vi/aAFuNn2URng/maxresdefault.jpg" alt="Ver video en YouTube" style="width:100%;">
+  </a>
+</div>
 
 Canal: [@TutosPCyoutube](https://www.youtube.com/@TutosPCyoutube)
 Instagram: [tutospcyoutube](https://www.instagram.com/tutospcyoutube)
