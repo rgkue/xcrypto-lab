@@ -27,8 +27,9 @@ WannaCry fue atribuido por los gobiernos de Estados Unidos, Reino Unido, Austral
   </a>
 </p>
 
+
 Canal: [@TutosPCyoutube](https://www.youtube.com/@TutosPCyoutube)
-Instagram: [tutospcyoutube](https://www.instagram.com/tutospcyoutube)
+
 
 ---
 
