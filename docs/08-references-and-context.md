@@ -19,7 +19,9 @@ WannaCry fue atribuido por los gobiernos de Estados Unidos, Reino Unido, Austral
 **Recurso recomendado:**
 
 ¿Qué fue WannaCry? — TutosPC
-[![¿Qué fue WannaCry?](https://img.youtube.com/vi/aAFuNn2URng/maxresdefault.jpg)](https://www.youtube.com/watch?v=aAFuNn2URng)
+<a href="https://www.youtube.com/watch?v=aAFuNn2URng">
+  <img src="https://img.youtube.com/vi/aAFuNn2URng/hqdefault.jpg" alt="¿Qué fue WannaCry?" width="600">
+</a>
 
 Canal: [@TutosPCyoutube](https://www.youtube.com/@TutosPCyoutube)
 Instagram: [tutospcyoutube](https://www.instagram.com/tutospcyoutube)
@@ -30,9 +32,9 @@ Instagram: [tutospcyoutube](https://www.instagram.com/tutospcyoutube)
 
 Para entender cómo EternalBlue llegó a manos de Shadow Brokers, es importante conocer el contexto de las filtraciones de años anteriores.
 
-En 2013, [Edward Snowden](https://es.wikipedia.org/wiki/Edward_Snowden), contratista de la NSA, filtró millones de documentos clasificados que revelaron al mundo la existencia de programas masivos de vigilancia global. Entre los documentos había evidencia de que la NSA había desarrollado capacidades para comprometer sistemas en todo el mundo. Snowden entregó los documentos a periodistas y huyó a Rusia, donde vive actualmente bajo asilo político.
+En 2013, [Edward Snowden](https://es.wikipedia.org/wiki/Edward_Snowden), contratista de la [NSA](https://www.nsa.gov/), filtró millones de documentos clasificados que revelaron al mundo la existencia de programas masivos de vigilancia global. Entre los documentos había evidencia de que la NSA había desarrollado capacidades para comprometer sistemas en todo el mundo. Snowden entregó los documentos a periodistas y huyó a Rusia, donde vive actualmente bajo asilo político.
 
-Las filtraciones de Snowden no incluyeron herramientas técnicas como EternalBlue, pero sí revelaron la existencia y el alcance del arsenal cibernético de la NSA. Shadow Brokers apareció en 2016 — tres años después — afirmando haber comprometido directamente la infraestructura de la NSA y publicando EternalBlue entre otras herramientas.
+Las filtraciones de Snowden no incluyeron herramientas técnicas como EternalBlue, pero sí revelaron la existencia y el alcance del arsenal cibernético de la NSA. [The Shadow Brokers](https://es.wikipedia.org/wiki/The_Shadow_Brokers) apareció en 2016 — tres años después — afirmando haber comprometido directamente la infraestructura de la NSA y publicando EternalBlue entre otras herramientas.
 
 Lo que sí es claro es que ambos casos — Snowden en 2013 y Shadow Brokers en 2016/2017 — apuntan al mismo problema: las agencias de inteligencia acumulan vulnerabilidades de seguridad en lugar de reportarlas a los fabricantes, y cuando esas vulnerabilidades se filtran, las consecuencias las pagan usuarios comunes, hospitales y empresas que nunca tuvieron nada que ver con el espionaje.
 
@@ -46,9 +48,10 @@ Disponible en plataformas de streaming. Recomendada como complemento al estudio 
 
 ## Demostración del Laboratorio
 
-El siguiente video muestra la ejecución completa de este laboratorio en el entorno controlado, incluyendo la explotación con EternalBlue, el despliegue del ransomware y la recuperación de archivos:
+El siguiente video muestra la ejecución completa de este laboratorio en el entorno controlado, incluyendo la explotación con EternalBlue, y el despliegue del ransomware.
 
 **Laboratorio Ransomware + EternalBlue — Demo en vivo**
+
 https://www.facebook.com/share/v/1EXu8UjJDK/
 
 ---
