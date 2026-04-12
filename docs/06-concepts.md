@@ -130,19 +130,8 @@ PyInstaller ofrece dos modos de empaquetado:
 
 | Modo | Comportamiento | Problema en este lab |
 |---|---|---|
-| `--onefile` | Genera un único ejecutable que descomprime en `AppData\Local\Temp` al ejecutarse | El ransomware cifra sus propias dependencias de tkinter antes de que puedan cargarse |
-| `--onedir` | Genera una carpeta con el ejecutable y todas sus dependencias en ruta fija | La carpeta de dependencias puede excluirse del cifrado ✅ |
-
----
-
-## Salt Fijo vs Salt Aleatorio
-
-El salt es un valor aleatorio que se añade a la contraseña antes de derivar la clave criptográfica, garantizando que la misma contraseña genere claves distintas en cada uso y previniendo ataques de rainbow table.
-
-| | Este laboratorio | Producción |
-|---|---|---|
-| Salt | Fijo (limitación didáctica) | Aleatorio con `os.urandom(16)` |
-| Consecuencia | La misma contraseña siempre genera la misma clave | Claves distintas por archivo/víctima |
+| `--onefile` | Genera un único ejecutable que descomprime en `AppData\Local\Temp` al ejecutarse |
+| `--onedir` | Genera una carpeta con el ejecutable y todas sus dependencias en ruta fija | 
 
 ---
 
