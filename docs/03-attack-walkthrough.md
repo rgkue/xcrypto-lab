@@ -182,7 +182,7 @@ Se restauró la máquina virtual Windows 7 a través de una Snapshot tomada ante
 [execute] xcrypto.exe cifra archivos + muestra pantalla de rescate
       │
       ▼
-[Descifrado] Ingreso de clave → recuperación de archivos
+[Descifrado] Se restaura sistema con Snapshot → fin del laboratorio
 ```
 
 ---
