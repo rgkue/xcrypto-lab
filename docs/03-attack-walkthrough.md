@@ -17,12 +17,15 @@
 Desde Kali Linux se realizó un escaneo completo sobre la IP de la víctima para identificar puertos abiertos, versiones de servicios y posibles vulnerabilidades:
 
 ```bash
-nmap -sV -sC -p- 192.168.104.130
+nmap -p445 -sC -sS --min-rate 5000 192.168.104.130 -Pn -n
 ```
 
-- **`-sV`** — detectar versión de los servicios
+- **`-p445`** - Escanea solo el puerto 445
 - **`-sC`** — ejecutar scripts por defecto de Nmap
-- **`-p-`** — escanear todos los puertos
+- **`-sS`** - Realiza un escaneo sigiloso
+- **`--min-rate`** - Envía paquetes a una velocidad mínima de 5000 paqutes/segundo
+- **`-Pn`** - No realiza ping a la víctima
+- **`-n`** - Desactiva la resolución DNS
 
 ![Resultado del escaneo Nmap](../img/image5.png)
 
