@@ -41,7 +41,3 @@ Windows 7 EOL (fin de vida: enero 2020) no recibe actualizaciones de seguridad. 
 ## Por qué cryptography 2.9.2
 
 Las versiones recientes de la librería `cryptography` requieren un compilador **Rust** durante la instalación. Windows 7 no tiene cadena de herramientas Rust compatible. La versión 2.9.2 es la última que instala sin necesidad de Rust. ✅
-
-## Por qué --onedir en lugar de --onefile
-
-El flag `--onefile` de PyInstaller descomprime las dependencias en `AppData\Local\Temp` al ejecutarse. Si el TARGET del ransomware incluye esa ruta, el ransomware cifra sus propias dependencias de tkinter antes de que puedan cargarse, causando el error `Can't find init.tcl`. El flag `--onedir` mantiene las dependencias en una ruta fija y excluible. Detalles en [05-issues.md](05-issues.md).
