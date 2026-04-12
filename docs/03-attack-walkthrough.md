@@ -157,7 +157,7 @@ Al ejecutarse, el ransomware cifró los archivos del TARGET y desplegó la panta
 
 ## Paso 9 — Descifrado
 
-Al ingresar la clave correcta en el campo de la pantalla del ransomware, los archivos fueron descifrados y el sistema recuperó su estado original.
+Se restauró la máquina virtual Windows 7 a través de una Snapshot tomada antes del ataque.
 
 ---
 
