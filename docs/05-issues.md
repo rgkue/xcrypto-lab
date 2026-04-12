@@ -52,7 +52,7 @@ Python 3.6 no reconoce ninguna de estas formas.
 
 **Causa:** PyInstaller con `--onefile` descomprime las dependencias en una carpeta temporal dentro de `AppData\Local\Temp` al ejecutarse. Si el TARGET del ransomware incluye esa ruta, el ransomware cifra sus propias dependencias de Tcl/Tk antes de que tkinter pueda cargarlas.
 
-**Solución:** Compilar con **`--onedir`** en lugar de `--onefile`. Con `--onedir` las dependencias están en una ruta fija junto al ejecutable, que puede ser agregada explícitamente a la lista de exclusiones del cifrado.
+**Solución:** Se excluyó la ruta `AppData\Local\Temp` para el usuario Public, junto con donde se había cargado el ransomware `Public\Documents`, evitando así que el ransonware cifrara archivos importantes para su propia ejecución.
 
 ```bash
 pyinstaller --onedir --noconsole xcrypto.py
