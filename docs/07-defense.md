@@ -77,6 +77,7 @@ bajo el nombre `"WindowsSecurityUpdate"` para camuflarse como una actualización
 
 ---
 
+## Si trabajas en el sector 
 
 **Principio de mínimo privilegio:** los usuarios del día a día no deben tener cuentas de administrador. Si un ransomware corre con una cuenta limitada, solo puede cifrar los archivos de ese usuario — no puede tocar archivos del sistema ni instalar persistencia a nivel de sistema.
 
