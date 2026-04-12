@@ -4,7 +4,7 @@
 
 ## WannaCry
 
-El 12 de mayo de 2017 comenzó a propagarse el ataque de ransomware más devastador de la historia. En menos de 24 horas WannaCry había infectado más de 230.000 sistemas en 150 países. Lo que lo hizo diferente a cualquier ransomware anterior fue su mecanismo de propagación: usaba EternalBlue para moverse automáticamente entre equipos vulnerables sin ninguna intervención humana, convirtiéndolo en un **gusano**.
+El 12 de mayo de 2017 comenzó a propagarse el ataque de ransomware más devastador de la historia. En menos de 24 horas [WannaCry](https://www.kaspersky.es/resource-center/threats/ransomware-wannacry) había infectado más de 230.000 sistemas en 150 países. Lo que lo hizo diferente a cualquier ransomware anterior fue su mecanismo de propagación: usaba EternalBlue para moverse automáticamente entre equipos vulnerables sin ninguna intervención humana, convirtiéndolo en un **gusano**.
 
 Las víctimas más impactantes incluyeron el Sistema Nacional de Salud del Reino Unido, donde hospitales de todo el país tuvieron que cancelar cirugías, citas médicas y derivaciones de emergencia porque el personal no podía acceder a los registros de pacientes. Se estiman 19.000 citas canceladas. También fueron afectadas Telefónica en España, Renault (detuvo producción en varias plantas), Deutsche Bahn, FedEx y ministerios en varios países. El daño económico total se estima entre 4.000 y 8.000 millones de dólares.
 
@@ -19,11 +19,13 @@ WannaCry fue atribuido por los gobiernos de Estados Unidos, Reino Unido, Austral
 **Recurso recomendado:**
 
 ¿Qué fue WannaCry? — TutosPC
-<div align="center">
+<p align="center">
   <a href="https://www.youtube.com/watch?v=aAFuNn2URng">
-    <img src="https://img.youtube.com/vi/aAFuNn2URng/maxresdefault.jpg" alt="Ver video en YouTube" style="width:100%;">
+    <img src="https://img.youtube.com/vi/aAFuNn2URng/maxresdefault.jpg" width="600" alt="¿Qué fue WannaCry?">
+    <br>
+    <b>Ver video en YouTube</b>
   </a>
-</div>
+</p>
 
 Canal: [@TutosPCyoutube](https://www.youtube.com/@TutosPCyoutube)
 Instagram: [tutospcyoutube](https://www.instagram.com/tutospcyoutube)
