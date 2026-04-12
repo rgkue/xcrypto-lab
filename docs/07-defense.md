@@ -2,13 +2,9 @@
 
 ---
 
-## Para Usuarios Finales
-
 ### Mantener el sistema actualizado
 
 Lo más importante que puedes hacer es mantener tu sistema operativo actualizado. Windows Update no es opcional — cada actualización contiene parches para vulnerabilidades que los atacantes ya conocen y están explotando activamente. Si tu versión de Windows ya no recibe actualizaciones (como Windows 7), considera actualizar a Windows 10 u 11.
-
-Actualización Windows: https://support.microsoft.com/en-us/windows/update-windows-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a
 
 ### Hacer backups
 
@@ -81,7 +77,6 @@ bajo el nombre `"WindowsSecurityUpdate"` para camuflarse como una actualización
 
 ---
 
-## Para Administradores de Sistemas
 
 **Principio de mínimo privilegio:** los usuarios del día a día no deben tener cuentas de administrador. Si un ransomware corre con una cuenta limitada, solo puede cifrar los archivos de ese usuario — no puede tocar archivos del sistema ni instalar persistencia a nivel de sistema.
 
