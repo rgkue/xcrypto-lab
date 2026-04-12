@@ -111,6 +111,7 @@ EternalBlue entrega acceso inicial en **Session 0** (sesión del sistema), donde
 
 ```
 migrate <PID de explorer.exe>
+migrate 1116
 ```
 
 ![Migración a explorer.exe](../img/image12.png)
