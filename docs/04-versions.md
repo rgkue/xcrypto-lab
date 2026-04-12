@@ -26,7 +26,7 @@ Se requirieron dos entornos Python distintos por incompatibilidades de Windows 7
 | cryptography | 2.9.2 |
 | PyInstaller | 4.10 |
 | tkinter | Incluido con Python |
-| Flag de compilación | `--onedir --noconsole` |
+| Flag de compilación | `--onefile --noconsole` |
 
 ---
 
