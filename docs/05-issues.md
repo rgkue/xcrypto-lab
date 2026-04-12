@@ -55,7 +55,7 @@ Python 3.6 no reconoce ninguna de estas formas.
 **Solución:** Se excluyó la ruta `AppData\Local\Temp` para el usuario Public, junto con donde se había cargado el ransomware `Public\Documents`, evitando así que el ransonware cifrara archivos importantes para su propia ejecución.
 
 ```bash
-pyinstaller --onedir --noconsole xcrypto.py
+pyinstaller --onefile --noconsole xcrypto.py
 ```
 
 ---
