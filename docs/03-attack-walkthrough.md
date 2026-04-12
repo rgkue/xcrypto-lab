@@ -1,7 +1,6 @@
 # 03 — Attack Walkthrough
 
-> Laboratorio realizado en red aislada VMnet 1 (Host-Only). Ningún tráfico salió del entorno virtual.
-
+> Laboratorio realizado en red aislada VMnet 1 (Host-Only). 
 ---
 
 ## Topología
