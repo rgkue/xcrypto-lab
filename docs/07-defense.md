@@ -86,3 +86,6 @@ bajo el nombre `"WindowsSecurityUpdate"` para camuflarse como una actualización
 **Inventario de software actualizado:** permite detectar instalaciones no autorizadas. Python, PyInstaller o cualquier herramienta de scripting instalada en un equipo que no debería tenerlas es una señal de alerta.
 
 **Monitoreo de comportamiento (EDR):** detecta patrones como el cifrado masivo de archivos en un corto período de tiempo, que es la firma característica de cualquier ransomware independientemente de su código.
+
+
+> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/08-references-and-context.md)

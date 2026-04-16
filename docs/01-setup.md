@@ -50,4 +50,4 @@ Windows 7 instalado desde imagen ISO. El firewall fue desactivado y SMBv1 se dej
 
 ---
 
-> Todos los ejercicios se realizaron en este entorno aislado. Ningún tráfico salió de la red virtual.
+> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/02-development.md)

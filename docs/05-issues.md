@@ -72,3 +72,5 @@ pyinstaller --onefile --noconsole xcrypto.py
 migrate <PID de explorer.exe>
 execute -f "C:\\Users\\Public\\Documents\\xcrypto.exe" -H
 ```
+
+> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/06-concepts.md)

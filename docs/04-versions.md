@@ -41,3 +41,6 @@ Windows 7 EOL (fin de vida: enero 2020) no recibe actualizaciones de seguridad. 
 ## Por qué cryptography 2.9.2
 
 Las versiones recientes de la librería `cryptography` requieren un compilador **Rust** durante la instalación. Windows 7 no tiene cadena de herramientas Rust compatible. La versión 2.9.2 es la última que instala sin necesidad de Rust. ✅
+
+
+> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/05-issues.md)

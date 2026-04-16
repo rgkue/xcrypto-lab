@@ -58,3 +58,5 @@ Estas limitaciones son intencionales — el objetivo del laboratorio es comprend
 El script fue convertido a ejecutable `.exe` con **PyInstaller** usando el flag `--onedir --noconsole` para que corriera en Windows 7 sin Python instalado y sin mostrar ventana de consola. Comando de empaquetado completo:
 
 `pyinstaller --onefile --noconsole xcrypto.py`
+
+> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/03-attack-walkthrough.md)

@@ -195,3 +195,5 @@ Se restauró la máquina virtual Windows 7 a través de una Snapshot tomada ante
 | Metasploit Framework | Explotación de EternalBlue (MS17-010) |
 | Meterpreter | Acceso remoto, subida de archivos, migración de proceso |
 | xcrypto.exe | Ransomware didáctico compilado con PyInstaller |
+
+> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/04-versions.md)
