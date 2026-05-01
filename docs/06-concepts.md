@@ -148,5 +148,7 @@ En ransomware real la clave nunca existe en el cliente — se genera localmente,
 Cuando PyInstaller empaqueta con `--onefile`, al ejecutarse descomprime dependencias en `AppData\Local\Temp`. Si el TARGET del ransomware incluye esa ruta, el ransomware cifrará sus propias dependencias de tkinter causando el error `Can't find init.tcl`. Solución: agregar `AppData\Local\Temp` a la lista de exclusiones del cifrado, o compilar con `--onedir`.
 
 
-> [!CONTINUAR]
+---
+
+> [!NOTE]
 > [Siguiente artículo: Defensa contra este tipo de ataques ➔](07-defense.md)

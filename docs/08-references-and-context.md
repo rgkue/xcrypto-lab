@@ -12,7 +12,7 @@ El rescate pedido era de entre 300 y 600 dólares en Bitcoin por equipo. Irónic
 
 ### El Kill Switch de los 10 dólares
 
-[Marcus Hutchins](https://es.wikipedia.org/wiki/Marcus_Hutchins), investigador de seguridad británico de 22 años conocido como MalwareTech, estaba analizando el código de WannaCry el mismo día del ataque. Encontró que antes de cifrar cualquier archivo, el malware consultaba un dominio de internet largo y sin sentido. Si el dominio respondía, el malware se detenía. El dominio no estaba registrado — nunca respondía — y el malware siempre continuaba. Hutchins lo registró por 10.69 dólares. Todos los procesos activos de WannaCry en el mundo dejaron de cifrar archivos en minutos. El ataque más costoso de la historia fue detenido por menos de once dólares.
+[Marcus Hutchins](https://es.wikipedia.org/wiki/Marcus_Hutchins), investigador de seguridad británico de 22 años conocido como MalwareTech, estaba analizando el código de WannaCry el mismo día del ataque. Encontró que antes de cifrar cualquier archivo, el malware consultaba un dominio de internet largo y sin sentido. Si el dominio respondía, el malware se detenía. El dominio no estaba registrado, nunca respondía y el malware siempre continuaba. Hutchins lo registró por 10.69 dólares. Todos los procesos activos de WannaCry en el mundo dejaron de cifrar archivos en minutos. El ataque más costoso de la historia fue detenido por menos de once dólares.
 
 WannaCry fue atribuido por los gobiernos de Estados Unidos, Reino Unido, Australia y Japón al grupo Lazarus, vinculado al gobierno de Corea del Norte.
 
@@ -28,7 +28,7 @@ WannaCry fue atribuido por los gobiernos de Estados Unidos, Reino Unido, Austral
 </p>
 
 
-Canal: [@TutosPCyoutube](https://youtube.com/@tutospcyoutube?si=Ls_7GcgfPPw0GW3x)
+Crédigtos: [@TutosPCyoutube](https://youtube.com/@tutospcyoutube?si=Ls_7GcgfPPw0GW3x)
 
 
 ---
@@ -55,9 +55,13 @@ Disponible en plataformas de streaming. Recomendada como complemento al estudio 
 
 El siguiente video muestra la ejecución completa de este laboratorio en el entorno controlado, incluyendo la explotación con EternalBlue, y el despliegue del ransomware.
 
-**Laboratorio Ransomware + EternalBlue — Demo en vivo**
+**Laboratorio Ransomware - Demo**
 
-https://www.facebook.com/share/v/1EXu8UjJDK/
+<p align="center">
+  <a href="https://www.facebook.com/share/v/1Jb13fm3Gj/">
+    <img src="/img/ransomware-demo.jpeg" width="600" alt="Laboratorio Ransomware - Demo">
+  </a>
+</p>
 
 ---
 
@@ -72,3 +76,9 @@ Isaac Muñoz — Estudiante y entusiasta de ciberseguridad.
 | 📸 Instagram | [instagram.com/rgkue](https://instagram.com/rgkue) |
 | 🟢 Hack The Box | [app.hackthebox.com](https://profile.hackthebox.com/profile/019d3818-db30-7363-b8b6-ed014b57bec5) |
 | 🔵 TryHackMe | [tryhackme.com/p/rgkue](https://tryhackme.com/p/rgkue) |
+
+---
+
+> [!NOTE]
+> **¡Gracias por leer y pasarte por aquí. Espero te haya gustado y sobretodo, ¡hayas aprendido!**
+> 🏠 [Volver al README](../README.md)

@@ -50,5 +50,5 @@ Windows 7 instalado desde imagen ISO. El firewall fue desactivado y SMBv1 se dej
 
 ---
 
-> [!CONTINUAR]
+> [!NOTE]
 > [Siguiente artículo: Desarrollo del Ransomware ➔](02-development.md)

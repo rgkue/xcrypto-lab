@@ -42,6 +42,7 @@ Windows 7 EOL (fin de vida: enero 2020) no recibe actualizaciones de seguridad. 
 
 Las versiones recientes de la librería `cryptography` requieren un compilador **Rust** durante la instalación. Windows 7 no tiene cadena de herramientas Rust compatible. La versión 2.9.2 es la última que instala sin necesidad de Rust. ✅
 
+---
 
-> [!CONTINUAR]
+> [!NOTE]
 > [Siguiente artículo: Issues encontrados durante el laboratorio ➔](05-issues.md)

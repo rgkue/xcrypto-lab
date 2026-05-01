@@ -196,5 +196,7 @@ Se restauró la máquina virtual Windows 7 a través de una Snapshot tomada ante
 | Meterpreter | Acceso remoto, subida de archivos, migración de proceso |
 | xcrypto.exe | Ransomware didáctico compilado con PyInstaller |
 
-> [!CONTINUAR]
+---
+
+> [!NOTE]
 > [Siguiente artículo: Versiones de herramientas utilizadas ➔](04-versions.md)
