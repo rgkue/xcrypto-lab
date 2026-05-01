@@ -59,7 +59,7 @@ El siguiente video muestra la ejecución completa de este laboratorio en el ento
 
 <p align="center">
   <a href="https://www.facebook.com/share/v/1Jb13fm3Gj/">
-    <img src="/img/ransomware-demo.jpeg" width="600" alt="Laboratorio Ransomware - Demo">
+    <img src="/img/demo-video.png" width="600" alt="Laboratorio Ransomware - Demo">
   </a>
 </p>
 
@@ -81,4 +81,5 @@ Isaac Muñoz — Estudiante y entusiasta de ciberseguridad.
 
 > [!NOTE]
 > **¡Gracias por leer y pasarte por aquí. Espero te haya gustado y sobretodo, ¡hayas aprendido!**
+>
 > 🏠 [Volver al README](../README.md)
