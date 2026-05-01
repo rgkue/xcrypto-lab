@@ -53,13 +53,14 @@ Disponible en plataformas de streaming. Recomendada como complemento al estudio 
 
 ## Demostración del Laboratorio
 
-El siguiente video muestra la ejecución completa de este laboratorio en el entorno controlado, incluyendo la explotación con EternalBlue, y el despliegue del ransomware.
+El siguiente video muestra la ejecución completa de este laboratorio en el entorno controlado, incluyendo la explotación con EternalBlue, y la subida del ransomware en la víctima Windows 7
 
 **Laboratorio Ransomware - Demo**
 
 <p align="center">
   <a href="https://www.facebook.com/share/v/1Jb13fm3Gj/">
     <img src="/img/demo-video.png" width="600" alt="Laboratorio Ransomware - Demo">
+    <br><b>Ver video en Facebook</b>
   </a>
 </p>
 
@@ -80,6 +81,6 @@ Isaac Muñoz — Estudiante y entusiasta de ciberseguridad.
 ---
 
 > [!NOTE]
-> **¡Gracias por leer y pasarte por aquí. Espero te haya gustado y sobretodo, ¡hayas aprendido!**
+> **¡Gracias por leer y pasarte por aquí. Espero te haya gustado y sobretodo, hayas aprendido!**
 >
 > 🏠 [Volver al README](../README.md)
