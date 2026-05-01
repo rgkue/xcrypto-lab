@@ -88,4 +88,5 @@ bajo el nombre `"WindowsSecurityUpdate"` para camuflarse como una actualización
 **Monitoreo de comportamiento (EDR):** detecta patrones como el cifrado masivo de archivos en un corto período de tiempo, que es la firma característica de cualquier ransomware independientemente de su código.
 
 
-> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/08-references-and-context.md)
+> [!CONTINUAR]
+> [Siguiente artículo: Referencias y contexto ➔](08-references-and-context.md)

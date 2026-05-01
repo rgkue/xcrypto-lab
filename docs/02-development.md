@@ -59,4 +59,5 @@ El script fue convertido a ejecutable `.exe` con **PyInstaller** usando el flag 
 
 `pyinstaller --onefile --noconsole xcrypto.py`
 
-> ![Siguiente árticulo](https://github.com/rgkue/xcrypto-lab/blob/main/docs/03-attack-walkthrough.md)
+> [!CONTINUAR]
+> [Siguiente artículo: Paso a paso del ataque ➔](03-attack-walkthrough.md)
