@@ -1,12 +1,12 @@
 # 02 — Desarrollo del Ransomware
 
-> El código fuente no está incluido en este repositorio. Esta sección documenta las decisiones de diseño y la lógica del malware con fines exclusivamente educativos.
+> El código fuente no está incluido en este repositorio. Como dato: fue completamenta vibecodeado con Claude AI.
 
 ---
 
 ## Entorno de Desarrollo
 
-El desarrollo completo ocurrió en el equipo host con Windows 11, usando Python 3.14.2 y Visual Studio Code. Posteriormente el código fue compilado en Windows 7 para garantizar compatibilidad — el motivo de esto se detalla en [05-issues.md](05-issues.md).
+El código fue escrito en Python y se manejo en el equipo host con Windows 11, usando Python 3.14.2 y Visual Studio Code. Posteriormente el código fue compilado en Windows 7 para garantizar compatibilidad. El motivo de esto se detalla en [05-issues.md](05-issues.md).
 
 ---
 
@@ -14,7 +14,7 @@ El desarrollo completo ocurrió en el equipo host con Windows 11, usando Python 
 
 ### Cifrado
 
-Al ejecutarse, el ransomware cifra silenciosamente todos los archivos dentro de una ruta objetivo (`TARGET`) usando **Fernet**, un esquema de cifrado simétrico autenticado que internamente combina AES-128-CBC para confidencialidad con HMAC-SHA256 para integridad. Si un archivo cifrado es modificado aunque sea en un solo byte, Fernet lanza `InvalidToken` al intentar descifrar en lugar de devolver datos corruptos.
+Al ejecutarse, el ransomware cifra silenciosamente, es decir, no abre terminales ni muestra procesos claros en el escritorio. Todos los archivos dentro de una ruta objetivo (`TARGET`) usando **Fernet**, un esquema de cifrado simétrico autenticado que internamente combina AES-128-CBC para confidencialidad con HMAC-SHA256 para integridad. Si un archivo cifrado es modificado aunque sea en un solo byte, Fernet lanza `InvalidToken` al intentar descifrar en lugar de devolver datos corruptos.
 
 La clave se deriva de una contraseña usando **PBKDF2HMAC** con SHA-256 y 100.000 iteraciones. 
 
