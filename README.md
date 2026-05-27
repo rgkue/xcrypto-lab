@@ -1,6 +1,6 @@
 # Simulación de Ransomware en Windows 7 Home Basic
 
-> Este laboratorio fue desarrollado en un entorno aislado, con el uso de máquinas y redes virtuales sin acceso a internet, con el propósito de comprender cómo se obtiene una intrusión para posteriormente inyectar un ransomware y concientizar sobre la importancia de mantener los sistemas actualizados.
+Este laboratorio fue desarrollado en un entorno aislado, con el uso de máquinas y redes virtuales sin acceso a internet, con el propósito de comprender cómo se obtiene una intrusión para posteriormente inyectar un ransomware y concientizar sobre la importancia de mantener los sistemas actualizados.
 
 ---
 
